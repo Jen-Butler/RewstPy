@@ -4,3 +4,4 @@
 
 azure-functions
 requests
+ail-typo-squatting
